@@ -21,12 +21,29 @@
 
     > QMUI Web 是一个专注 Web UI 开发，帮助开发者快速实现特定的一整套设计的框架。框架主要由一个强大的 SASS 方法合集与内置的工作流构成，由腾讯 [QMUI 团队](https://github.com/QMUI)出品。
 
+  - [WeUI](https://github.com/weui/weui)
+
+    > WeUI 是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信 Web 开发量身设计，可以令用户的使用感知更加统一。包含`button`、`cell`、`dialog`、 `progress`、 `toast`、`article`、`actionsheet`、`icon`等各式元素。
+
 - 后端框架
 
-  - ThinkPHP
-  - CodeIgniter
-  - Yii Framework
-  - ​
+  - [ThinkPHP](http://www.thinkphp.cn/)
+
+    > 国内非常流行且著名的开源框架，培养了数十万以上的“工程师”，因其影响力巨大，排在首位。
+
+  - [CodeIgniter](http://www.codeigniter.com/)
+
+    > CodeIgniter 是一个简单快速的PHP MVC框架，其轻量化和高拓展的特性简直迷死了一代人。
+
+  - [Yii Framework](http://www.yiiframework.com/)
+
+    > 怎么说了？它在1.0时代就风靡全球，The Fast, Secure and Professiona lPHP Framework 是其官方的自评，当然我个人也非常认同。
+
+  - [Laravel](https://laravel.com/)
+
+    > 我相信如果我不提它，肯定会被粪喷没。但它的强健需要有一定的基础，否则带给你的将不会是愉悦而是灾难...
+
+    当然，还有其它很多很多优秀的框架，比如：Zend Framework、Symfony 等等。
 
 ### 工具
 
@@ -34,18 +51,27 @@
 
 #### 运行环境
 
-| 名称       |  性质  |               官方               | 下载                                       | 备注                    |
-| -------- | :--: | :----------------------------: | :--------------------------------------- | :-------------------- |
-| phpStudy |  免费  | [访问](http://www.phpstudy.net/) | [Win](http://www.phpstudy.net/a.php/211.html) | 国内非常著名且好用的PHP环境集成包    |
-| MAMP     |  免费  |                                | [Mac](https://www.mamp.info)             | Mac 平台下PHP环境集成包，Pro收费 |
-|          |      |                                |                                          |                       |
-|          |      |                                |                                          |                       |
+| 名称          |  性质  |                  官方                  | 下载                                       | 备注                                       |
+| ----------- | :--: | :----------------------------------: | :--------------------------------------- | :--------------------------------------- |
+| phpStudy    |  免费  |    [访问](http://www.phpstudy.net/)    | [Win](http://www.phpstudy.net/a.php/211.html) \| Mac \| Linux | 国内非常著名且好用的PHP环境集成包                       |
+| MAMP        |  免费  |   [访问](https://www.mamp.info/en/)    | Win \| [Mac](https://www.mamp.info)\| Linux | Mac 平台下PHP环境集成包，Pro收费                    |
+| SourceTree  |  免费  | [访问](https://www.sourcetreeapp.com/) | Win \| Mac\| Linux                       | 免费跨平台的 Git 和 Hg 客户端管理工具，同时也是Mercurial和Subversion版本控制系统工具。 |
+| TortoiseGit |  免费  |    [访问](https://tortoisegit.org/)    | Win \| Mac\| Linux                       | TortoiseGit是一个开放的git版本控制系统的源客户端，界面友好。    |
 
 #### 编程软件
 
-| 名称           | 官方   | 性质   |  下载  | 备注                      |
-| ------------ | ---- | ---- | :--: | ----------------------- |
-| Sublime Text | 收费   |      |      | 轻量级跨平台文本编辑器，贵。          |
-| NetBeans     | 免费   |      |  -   |                         |
-| Vim          | 免费   |      |  -   | 超强跨平台文本编辑器，有一定的学习门槛，慎入。 |
-| Navicat      | 收费   |      |      | 数据库管理软件，完美支持绝大多数数据库。    |
+| 名称           | 性质   |                官方                 |  下载  | 备注                               |
+| ------------ | ---- | :-------------------------------: | :--: | -------------------------------- |
+| Sublime Text | 收费   | [访问](http://www.sublimetext.com/) |  -   | 轻量级跨平台文本编辑器，贵。                   |
+| NetBeans     | 免费   |    [访问](https://netbeans.org/)    |  -   | NetBeans是跨平台开源软件开发集成环境，多语言。      |
+| Vim          | 免费   |     [访问](http://www.vim.org/)     |  -   | 超强跨平台文本编辑器，有一定的学习门槛，慎入。          |
+| Navicat      | 收费   |   [访问](https://www.navicat.com)   |      | 数据库管理软件，完美支持绝大多数数据库。             |
+| Atom         | 免费   |                                   |      | Atom 是github专门为程序员推出的一个跨平台文本编辑器。 |
+
+#### 其它相关
+
+| 名称     | 性质   |             官方              | 下载                                       | 备注                       |
+| ------ | ---- | :-------------------------: | ---------------------------------------- | ------------------------ |
+| Typora | 免费   | [访问](http://www.typora.io/) | [Win \| Mac \| Linux](http://www.typora.io/) | 一款将协作与预览完美结合的Markdown编辑器 |
+| Git    | 免费   |                             |                                          |                          |
+
