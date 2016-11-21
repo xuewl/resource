@@ -1,5 +1,9 @@
 ## 开发资源收集
 
+> 当前版本：0.0.1
+>
+> 更新日期：2016-11-21
+
 ### 规范
 
 - 前端编码规范
@@ -24,6 +28,31 @@
   - [WeUI](https://github.com/weui/weui)
 
     > WeUI 是一套同微信原生视觉体验一致的基础样式库，由微信官方设计团队为微信 Web 开发量身设计，可以令用户的使用感知更加统一。包含`button`、`cell`、`dialog`、 `progress`、 `toast`、`article`、`actionsheet`、`icon`等各式元素。
+
+- 交互组件
+
+  - 基础
+
+    - jQuery
+    - AngularJS
+    - Vue
+
+  - 验证
+
+  - 弹层
+
+    - [artDialog](https://github.com/aui/artDialog)
+
+      > 老牌、经典、优雅。基于LGPL协议 。
+
+
+    - [layer](https://github.com/sentsin/layer)
+
+      > layer是一款近年来备受青睐的web弹层组件，她具备全方位的解决方案，致力于服务各水平段的开发人员，您的页面会轻松地拥有丰富友好的操作体验。
+
+    - ​
+
+  - 弹层
 
 - 后端框架
 
