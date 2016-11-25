@@ -39,40 +39,49 @@
 
   - 验证
 
+    - [Validform](http://validform.rjboy.cn/)
+
+      > 一句话搞定表单验证，轻量。国产品质！
+
+    - Validation
+
+      > 著名的jQuery Validation Plugin，功能丰富，界面友好。
+
   - 弹层
 
     - [artDialog](https://github.com/aui/artDialog)
 
       > 老牌、经典、优雅。基于LGPL协议 。
 
-
     - [layer](https://github.com/sentsin/layer)
 
       > layer是一款近年来备受青睐的web弹层组件，她具备全方位的解决方案，致力于服务各水平段的开发人员，您的页面会轻松地拥有丰富友好的操作体验。
 
-    - ​
 
-  - 弹层
 
-- 后端框架
 
-  - [ThinkPHP](http://www.thinkphp.cn/)
 
-    > 国内非常流行且著名的开源框架，培养了数十万以上的“工程师”，因其影响力巨大，排在首位。
+-   弹层
 
-  - [CodeIgniter](http://www.codeigniter.com/)
+-   后端框架
 
-    > CodeIgniter 是一个简单快速的PHP MVC框架，其轻量化和高拓展的特性简直迷死了一代人。
+    - [ThinkPHP](http://www.thinkphp.cn/)
 
-  - [Yii Framework](http://www.yiiframework.com/)
+      > 国内非常流行且著名的开源框架，培养了数十万以上的“工程师”，因其影响力巨大，排在首位。
 
-    > 怎么说了？它在1.0时代就风靡全球，The Fast, Secure and Professiona lPHP Framework 是其官方的自评，当然我个人也非常认同。
+    - [CodeIgniter](http://www.codeigniter.com/)
 
-  - [Laravel](https://laravel.com/)
+      > CodeIgniter 是一个简单快速的PHP MVC框架，其轻量化和高拓展的特性简直迷死了一代人。
 
-    > 我相信如果我不提它，肯定会被粪喷没。但它的强健需要有一定的基础，否则带给你的将不会是愉悦而是灾难...
+    - [Yii Framework](http://www.yiiframework.com/)
 
-    当然，还有其它很多很多优秀的框架，比如：Zend Framework、Symfony 等等。
+      > 怎么说了？它在1.0时代就风靡全球，The Fast, Secure and Professiona lPHP Framework 是其官方的自评，当然我个人也非常认同。
+
+    - [Laravel](https://laravel.com/)
+
+      > 我相信如果我不提它，肯定会被粪喷没。但它的强健需要有一定的基础，否则带给你的将不会是愉悦而是灾难...
+
+      当然，还有其它很多很多优秀的框架，比如：Zend Framework、Symfony 等等。
 
 ### 工具
 
