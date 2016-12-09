@@ -2,7 +2,7 @@
 
 > 当前版本：0.0.1
 >
-> 更新日期：2016-11-21
+> 更新日期：2016-12-09
 
 
 
@@ -229,8 +229,14 @@
 - 音/视频(media)
 
   -   jPlayer
+
   -   ckPlayer
+
   -   Clapper
+
+  -   [MuPlayer](https://github.com/Baidu-Music-FE/muplayer)
+
+      > 百度音乐播放内核，MuPlayer 是一款跨平台、轻量级的音频播放解决方案，是百度@音乐前端团队开发维护的浏览端音频播放内核，它基于HTML5 Audio及Flash音频技术，已在百度音乐多个线上产品线中应用，具备很强的灵活性和稳定性。
 
 - 存储（storage）
 
