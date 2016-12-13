@@ -121,6 +121,26 @@
 
     > 图片延迟加载库
 
+- 图片编辑&预览
+
+  - [viewers](https://github.com/fengyuanchen/viewerjs)
+
+    > 一款轻量级图片预览插件
+
+  - [croppers](https://github.com/fengyuanchen/cropperjs)
+
+    > 图片在线编辑器插件，界面友好。支持缩放、裁剪等。
+
+  - [photo-editor](https://github.com/fengyuanchen/photo-editor)
+
+    > 本地图片编辑插件，支持裁剪、放大、缩小、旋转、翻滚等功能。
+
+  - [blazy](https://github.com/dinbror/blazy)
+
+    > 轻量级支持响应式图片加载的lazyload脚本
+
+  - ​
+
 - 图片轮播
 
   - [FlexSlider](https://github.com/woocommerce/FlexSlider)
