@@ -270,3 +270,13 @@
   -   artTemplate
   -   json2html
   -   baiduTemplate
+
+
+
+### 资源
+
+- 前端开发仓库 http://code.ciaoca.com/
+
+### 工具
+
+- QRCode.js 生成二维码 http://code.ciaoca.com/javascript/qrcode/
